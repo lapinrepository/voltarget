@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+# NAMESPACE file
+import(zoo, xts, quantmod,PerformanceAnalytics)
